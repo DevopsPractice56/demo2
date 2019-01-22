@@ -1,1 +1,2 @@
 Welcome to git latest session.
+Git is a version control system.
